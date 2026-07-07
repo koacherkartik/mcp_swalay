@@ -1,0 +1,12 @@
+name: mcp-drdo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - pymongo==4.13.2
+      - ollama==0.5.1
+      - python-dotenv==1.1.1
+      - pydantic==2.11.7
