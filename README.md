@@ -1,4 +1,4 @@
-# mcp_drdo
+# mcp_swalay
 
 ## Create the conda environment
 
